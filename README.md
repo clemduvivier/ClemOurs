@@ -1,9 +1,11 @@
 
 ### Hi there :wave:
 #### I'm Clément Duvivier !
+#### For now a Padawan, but I hope to become a Master (one day maybe)
 #
 ### 
     French Student at IIM - A2 Web Development
+
 #
 - 🌱 I’m currently learning Symfony and many other things !
 - 💬 Ask me about Star Wars (hello, big fan)    
@@ -15,4 +17,5 @@ little thing : My first Web project was about Ben Solo.. so yeah i'm a fan :smil
     - :arrow_forward: : https://github.com/ClemOurs?tab=repositories
 #
 ## and don't forget..
+
 <img src="img/kylo-approves.gif" alt="My Project GIF" width="500" height="250">
