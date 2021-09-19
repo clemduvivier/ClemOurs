@@ -1,7 +1,7 @@
 
 ### Hi there :wave:
 #### I'm Clément Duvivier !
-#### For now a Padawan in development, but I hope to become a Master (one day maybe)
+#### For now a Padawan in development, but I hope to become a Master (one day maybe), fun fact i can speak german (beautiful language btw)
 #
 ### 
     French Student at IIM - A2 Web Development
