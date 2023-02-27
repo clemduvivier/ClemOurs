@@ -1,7 +1,7 @@
 
 ### Hello there 👋🏻,
 #### I'm Clément Duvivier 🧑🏻‍💻!
-##### <a href="https://www.cduvivier.dev">My Portfolio 👀</a>
+##### <a href="https://cduvivier.dev">My Portfolio 👀</a>
 #### Young developer currently making his on path to the big world.
 ### 
 - 🎓 French Student at IIM - A3 CD&I
