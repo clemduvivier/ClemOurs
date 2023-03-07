@@ -6,8 +6,8 @@
 ### 
 - 🎓 French Student at IIM - A3 CD&I
 - 🍋 Developer at Lemon Learning
-- 🌱 I’m currently prepare to launch my own freelance !
-- 💬 Don't hesitate to contact me for anything, i'll be glad to help 😁
+- 🌱 I’m currently working to launch my own freelance !
+- 💬 Don't hesitate to contact me for anything, I'll be glad to help 😁
 ### 📫 How to contact me : 
 ✉️ : duvivier.clem@gmail.com
 
