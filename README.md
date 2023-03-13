@@ -12,3 +12,4 @@
 ✉️ : duvivier.clem@gmail.com
 
 🟦 : <a href="https://www.linkedin.com/in/clementduvivier" target="_blank">My Linkedin</a>
+<q>this is the way</q>
