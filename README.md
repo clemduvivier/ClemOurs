@@ -2,7 +2,7 @@
 ### Hello there 👋🏻,
 #### I'm Clément Duvivier 🧑🏻‍💻!
 ##### <a href="https://cduvivier.dev">My Portfolio 👀</a>
-#### Young developer currently making his on path to the big world.
+#### Young developer, always something to learn every day !
 ### 
 - 🎓 French Student at IIM - A3 CD&I
 - 🍋 Developer at Lemon Learning
