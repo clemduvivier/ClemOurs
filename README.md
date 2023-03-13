@@ -6,6 +6,7 @@
 ### 
 - 🎓 French Student at IIM - A3 CD&I
 - 🍋 Developer at Lemon Learning
+- Working on <a href="http://www.retaught.org">Retaught</a>
 - 🌱 I’m currently working to launch my own freelance !
 - 💬 Don't hesitate to contact me for anything, I'll be glad to help 😁
 ### 📫 How to contact me : 
