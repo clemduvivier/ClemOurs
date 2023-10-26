@@ -6,7 +6,7 @@
 ### 
 - 🎓 French Student at IIM - A4 MTD
 - 👀 Working on CONFIDENTIAL things at Hologarde
-- 🌱 I’m currently working on a new version of my site !
+- 🌱 I’m currently updating my site !
 - 💬 Don't hesitate to contact me for anything, I'll be glad to help 😁
 ### 📫 How to contact me : 
 ✉️ : duvivier.clem@gmail.com
