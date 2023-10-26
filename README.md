@@ -4,10 +4,9 @@
 ##### <a href="https://cduvivier.dev">My Portfolio 👀</a>
 #### Young developer, always something to learn every day !
 ### 
-- 🎓 French Student at IIM - A3 CD&I
-- 🍋 Developer at Lemon Learning
-- Working on <a href="http://www.retaught.org">Retaught</a>
-- 🌱 I’m currently working to launch my own freelance !
+- 🎓 French Student at IIM - A4 MTD
+- 👀 Working on CONFIDENTIAL things at Hologarde
+- 🌱 I’m currently working on a new version of my site !
 - 💬 Don't hesitate to contact me for anything, I'll be glad to help 😁
 ### 📫 How to contact me : 
 ✉️ : duvivier.clem@gmail.com
