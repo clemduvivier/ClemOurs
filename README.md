@@ -4,8 +4,8 @@
 ##### <a href="https://cduvivier.dev">My Portfolio 👀</a>
 #### Young developer, always something to learn every day !
 ### 
-- 🎓 French Student at IIM - A4 MTD
-- 👀 Working on CONFIDENTIAL things at Hologarde
+- 🎓 French Student at HETIC - Product Management
+- 👀 Working at Dipeeo
 - 🌱 I’m currently updating my site !
 - 💬 Don't hesitate to contact me for anything, I'll be glad to help 😁
 ### 📫 How to contact me : 
