@@ -1,7 +1,7 @@
 
 ### Hello there 👋🏻,
 #### I'm Clément Duvivier 🧑🏻‍💻!
-##### <a href="https://cduvivier.dev">My Portfolio 👀</a>
+##### <a href="https://cduvivier.dev">Website</a>
 #### Young developer, always something to learn every day !
 ### 
 - 🎓 French Student at HETIC - Product Management
