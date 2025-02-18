@@ -6,4 +6,4 @@
 - 🧑🏻‍💻 Working at Dipeeo - Product Owner
 - 🌐 I’m currently updating my site !
 
-[`website`](https://cduvivier.dev) • [`linkedin`](https://www.linkedin.com/in/clementduvivier/) • [`mail`](mailto:duvivier.clem@gmail.com)
+[`website`](https://clementduvivier.com) • [`linkedin`](https://www.linkedin.com/in/clementduvivier/) • [`mail`](mailto:duvivier.clem@gmail.com)
